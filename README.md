@@ -1,1 +1,0 @@
-# Project-1--Column-chart-creating-from-data-s-given.
